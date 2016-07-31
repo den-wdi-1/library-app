@@ -761,7 +761,7 @@ class LibraryUsersController < ApplicationController
 end
 ```
 
-Then we can have the libraries index render the user and the libraries:
+Then we can have the library_users index render the user and the libraries:
 
 
 ```html
